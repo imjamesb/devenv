@@ -4,7 +4,7 @@
 !/.docker/Dockerfile
 !/.github
 !/.github/workflows
-!/.github/workflows/ci.yaml
+!/.github/workflows/ci.yml
 !/.vscode
 !/.vscode/settings.json
 !/.gitignore

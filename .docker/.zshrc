@@ -1,6 +1,6 @@
 export ZSH="$HOME/.oh-my-zsh"
 HIST_STAMPS="dd/mm/yyyy"
-PLUGINS=(
+plugins=(
 	git
 	docker
 	docker-compose

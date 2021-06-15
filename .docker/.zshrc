@@ -70,7 +70,7 @@ function dsrm () {
 alias mkdir="mkdir -p"
 alias rm="rm -rf"
 alias c="printf '\x1bc\x1b[3J'"
-alias batcat="batcat --theme TwoDark --style full -P"
+alias batcat="batcat --theme TwoDark --style full --paging never"
 alias bat="batcat"
 
 eval "$(starship init zsh)"

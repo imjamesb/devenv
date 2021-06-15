@@ -1,0 +1,12 @@
+*
+!/.docker
+!/.docker/.zshrc
+!/.docker/Dockerfile
+!/.github
+!/.github/workflows
+!/.github/workflows/ci.yaml
+!/.vscode
+!/.vscode/settings.json
+!/.gitignore
+!/docker-compose.yaml
+!/LICENSE

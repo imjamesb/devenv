@@ -4,7 +4,7 @@ PLUGINS=(
 	git
 	docker
 	docker-compose
-	zsh-completions
+	zsh-syntax-highlighting
 	zsh-autosuggestions
 )
 ZSH_AUTOSUGGEST_STRATEGY=completion

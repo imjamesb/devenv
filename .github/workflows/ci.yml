@@ -24,4 +24,4 @@ jobs:
           push: true
           tags: |
             ihack2712/devenv:latest
-            ihack2712/devenv:${{ VERSION }}
+            ihack2712/devenv:${{ steps.vars.outputs.VERSION }}

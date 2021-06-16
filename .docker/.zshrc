@@ -10,6 +10,7 @@ plugins=(
 ZSH_AUTOSUGGEST_STRATEGY=completion
 source $ZSH/oh-my-zsh.sh
 
+alias exa="exa -hg"
 alias l="exa -la"
 alias ll="exa -l"
 alias la="exa -a"
